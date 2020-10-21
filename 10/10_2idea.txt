@@ -1,0 +1,2 @@
+10_2 idea:
+calculate the rotation angle for all asteroids using arctan and coordinates, then sort by angles and distances
